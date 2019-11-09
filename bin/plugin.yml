@@ -1,0 +1,9 @@
+main: de.jan2k17.NickSaver.main.main
+name: Nick-Saver
+description: Dieses Plugin Speichert die Usernamen mit der UUID in einer Datenbank.
+version: 1.1.0
+website: https://www.spigotmc.org/resources/nick-uuid-saver.72574/
+author: Jan2k17
+api-version: 1.14
+commands:
+  nick-saver:
